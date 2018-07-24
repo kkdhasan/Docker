@@ -4,7 +4,7 @@
 #   Version                     : 1.0                                                                             #
 #   Release Date                : 30 Aug 2017                                                                     #
 #   Description                 : This script will build docker Application images                                #
-#   Release notes               : Apache 2.4, PHP 5.6 						                  #
+#   Release notes               : Apache 2.4, PHP 5.6 		Autobuild test 				                  #
 ###################################################################################################################
 
 # Set the base image to Ubuntu
